@@ -19,7 +19,7 @@ on:
       DEVICE_TREE:
         description: 'Custom Recovery Tree'
         required: true
-        default: 'https://github.com/rabilgic/twrp_device_oneplus_hotdogb'
+        default: 'https://github.com/kodahr27/twrp_device_oneplus_hotdogb'
       DEVICE_TREE_BRANCH:
         description: 'Custom Recovery Tree Branch'
         required: true
